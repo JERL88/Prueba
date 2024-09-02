@@ -9,7 +9,8 @@ abstract Control{
     +State
     +Feedback() 
     +Timer()
-    +Controller()   
+    +Controller()
+    +Felipe()   
     
 }
 
