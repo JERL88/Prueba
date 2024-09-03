@@ -6,13 +6,12 @@ abstract Control{
     +Inputs[]
     +Gains[]
     +Errors[]
-    +Jovani[]
     +State
     +Feedback() 
     +Timer()
     +Controller()
     +Felipe()   
-    +Jose()
+
     
 }
 
